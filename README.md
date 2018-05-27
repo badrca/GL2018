@@ -21,4 +21,4 @@ TeamSense
 * BOUHLAL Houda
 * AOULHOUSS Ouijdane
 * RHILMANE Chaimae
-* GHAZOUANE Badr
+* GHAZOUAN Badr
